@@ -22,4 +22,4 @@ function delayedReminder(message, delay) {
   // Resolve the promise once the message is logged
 }
 
-delayedReminder('hello', 3000)
+module.exports = delayedReminder 

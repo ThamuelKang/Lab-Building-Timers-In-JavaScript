@@ -35,3 +35,4 @@ function countdownTimer(startTime, interval) {
 
 countdownTimer(102, 10)
 
+module.exports = countdownTimer

@@ -23,3 +23,4 @@ describe('countdownTimer', () => {
     expect(clearInterval).toHaveBeenCalledWith(timerId)
   })
 })
+
